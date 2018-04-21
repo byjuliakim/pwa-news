@@ -1,0 +1,10 @@
+{
+  "articles": [
+    {
+      "title": "You are offline",
+      "url": "",
+      "urlToImage": "/pga-news/images/error.jpeg",
+      "description": "Try loading the page again when you're online."
+    }
+  ]
+}
